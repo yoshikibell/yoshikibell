@@ -1,4 +1,4 @@
-# Hi there👋🏼
+## Hi there👋🏼
 
 I'm a Software Developer based in Tokyo, Japan 👨🏻‍💻 🗼 🇯🇵
 
