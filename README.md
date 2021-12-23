@@ -2,4 +2,5 @@
 
 I'm a Software Engineer based in Tokyo, Japan 👨🏻‍💻 🗼 🇯🇵
 
-[Get to know me!](https://www.linkedin.com/in/yoshiki-bell/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshikibell)](https://github.com/anuraghazra/github-readme-stats)
+
