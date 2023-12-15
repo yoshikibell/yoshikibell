@@ -7,7 +7,7 @@
   <ul>
     <li>I'm a fullstack web application engineer with 3 years of professional work experience using Ruby on Rails, from versions 4.2 ~ 6. </li>
     <li>All of my past work experiences has been with startups, big and small. </li>
-    <li>I currently live in Taipei, Taiwan with my wife and 2 cats 👰🏻‍♀️ 🐈 🐈 ( Tokyo -> Taipei -> San Fran next? ). </li>
+    <li>I currently live in Taipei, Taiwan with my wife and 2 cats 👰🏻‍♀️ 🐈 🐈 </li>
   </ul>
 </details>
 <details>
